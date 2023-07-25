@@ -1,29 +1,6 @@
-# reaction-timer
+## Reaction Timer 
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+![image](https://github.com/Jatin123lodhi/reaction-timer/assets/90623311/8e379ae8-2917-42e1-963d-844ce21c2315)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
